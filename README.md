@@ -25,6 +25,7 @@
 
 ### List of Python Coding Guide
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
 
 ## 
