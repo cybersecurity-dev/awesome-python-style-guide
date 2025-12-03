@@ -1,10 +1,13 @@
-<p align="center">
-  <a href="https://github.com/cybersecurity-dev/awesome-python-programming-language">
-    <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
-  </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-python-programming-language">
+          <img width="13%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
+        </a>
+    </p>
 
-# Awesome [Python](https://www.python.org/) Style Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# **`Awesome`** [Python](https://www.python.org/) Style Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
